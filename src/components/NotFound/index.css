@@ -1,0 +1,23 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  height: 90vh;
+  padding: 80px;
+}
+.dark-theme {
+  background-color: black;
+}
+
+.not-found-light-theme {
+  color: black;
+  font-size: 25px;
+}
+.not-found-dark-theme {
+  color: white;
+  font-size: 25px;
+}
+.not-found-image {
+  width: 400px;
+}
